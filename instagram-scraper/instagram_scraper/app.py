@@ -865,6 +865,8 @@ class InstagramScraper(object):
             url = full_url.split('?')[0] #try the static url first, stripping parameters
 
             file_path = os.path.join(save_dir, base_name)
+            print(save_dir)
+            print(base_name)
 
             if not os.path.exists(os.path.dirname(file_path)):
                 self.make_dir(os.path.dirname(file_path))

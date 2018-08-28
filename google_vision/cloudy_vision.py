@@ -9,6 +9,7 @@ import shutil
 import time
 import re
 import vendors.google
+import jinja2
 # import vendors.microsoft
 # import vendors.clarifai_
 # import vendors.ibm
@@ -27,9 +28,8 @@ def settings(name):
         # Change this dict to suit your taste.
         SETTINGS = {
             'api_keys_filepath' : './api_keys.json',
-            'input_images_dir' : 'input_images',
+            'input_images_dir' : '../heidifahreal',
             'output_dir' : 'output',
-            'static_dir' : 'static',
             'output_image_height' : 200,
             'vendors' : {
                 'google' : vendors.google,
@@ -85,7 +85,7 @@ def resize_and_save(input_image_filepath, output_image_filepath):
 
 def render_from_template(directory, template_name, **kwargs):
     loader = FileSystemLoader(directory)
-    env = Environment(loader=loader)
+    env = Environment(loader=loader, trim_blocks=True)
     template = env.get_template(template_name)
     return template.render(**kwargs)
 
@@ -244,20 +244,6 @@ def process_all_images():
 
     # Sort image_results output by filename (so that future runs produce comparable output)
     image_results.sort(key=lambda image_result: image_result['output_image_filepath'])
-
-    # Render HTML file with all results.
-    output_html = render_from_template(
-        '.',
-        os.path.join(settings('static_dir'), 'template.html'),
-        image_results=image_results,
-        vendor_stats=vendor_stats,
-        process_date=datetime.datetime.today()
-    )
-
-    # Write HTML output.
-    output_html_filepath = os.path.join(settings('output_dir'), 'output.html')
-    with open(output_html_filepath, 'w') as output_html_file:
-        output_html_file.buffer.write(output_html.encode('utf-8'))
 
 
 if __name__ == "__main__":
