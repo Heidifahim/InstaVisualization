@@ -28,7 +28,7 @@ def settings(name):
         # Change this dict to suit your taste.
         SETTINGS = {
             'api_keys_filepath' : './api_keys.json',
-            'input_images_dir' : '../heidifahreal',
+            'input_images_dir' : 'input_images',
             'output_dir' : 'output',
             'output_image_height' : 200,
             'vendors' : {

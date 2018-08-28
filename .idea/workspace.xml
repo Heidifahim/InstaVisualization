@@ -2,122 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1978d94-51be-4f44-899a-9fb7976a9eb6" name="Default" comment="insta-scraper">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/heidifahreal/19052087_1434783233276533_434504064466681856_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/heidifahreal/20393638_250702228774753_6210710868238270464_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/heidifahreal/20393989_1457190041014608_7995057543917338624_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39202929_903273776537090_5058755039783288832_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39356521_688189561550222_3868461920927350784_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/40206627_338066256766024_5858192257428623540_n.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39202929_903273776537090_5058755039783288832_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39356521_688189561550222_3868461920927350784_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/40206627_338066256766024_5858192257428623540_n.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instagram-scraper.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrape_vision.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google_vision/static/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google_vision/static/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google_vision/static/skeleton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/google_vision/static/template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/38835517_302519893634029_678596311552884736_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/38963918_313104466115836_4843337325805043712_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39020195_283777545783504_3796176770394875769_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39148845_234860937193365_1469161711842885632_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39164594_2019405618109570_4096967611437285376_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39189226_453532365143829_1945513798748078080_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39276476_264236390883765_8023833782714191645_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39307976_458805254630778_6236317609285910528_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39312845_232747444075019_9147830988116590592_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39347920_254501355401010_5581973260066619392_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39370221_1124682481032929_3180218395568111616_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39401572_259020581390823_6322353789348195416_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39578061_709345552754006_5724813023244189696_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39607212_318440735384966_1806674492664053760_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39715883_1123925397783960_3816335779756507136_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39736323_226603398033748_5984627380369489920_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39907263_534391450354696_275779561584318972_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39971240_732520550425696_4831745883477679321_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/35414722_1833801803589327_7624906533519753216_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/38439873_1998447393538978_4109555335948140544_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/38890851_228573097795446_8408176901792727040_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/38902100_500977646992517_5200482532181786091_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/38934689_230405500977148_3306350624295092224_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39042929_1712485358874523_5871414533527961600_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39085116_271491296797406_8809792829715906560_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39141937_2194187714168457_9015758544741335040_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39152776_2174073049542560_3119188009803579392_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39188952_1991658204457472_6659820533806442539_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39220056_1684158635027997_6405514633276293120_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39248391_551772665238786_5602974859870076928_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39291471_295002004611289_1218284958322262016_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39346896_1109293119218522_6143855384024162841_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39494101_247589702763571_3320168582058344448_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39504747_891909581002198_6464487694492080458_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39517579_259679564878040_6275791483149734872_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39525705_744773149197714_9196741062071156736_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39539728_272723350006696_7544681728455999488_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39613369_272327970157760_5890554801879515136_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39628467_905922449607496_3112529408967458767_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39756329_246460496202839_5177267871973113856_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39778896_229701387698377_6061998332033145169_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39783674_283483342250658_3657497795977281536_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39790066_311199032792281_3108992500472217600_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39917667_291942538273506_5435213914029686784_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39927517_258663138092332_7013437416690201685_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39949981_886219454916789_106161339470184448_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/39991052_886692988207777_3819733345682005666_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/kimkardashian/40169239_567912530292588_4705952802453585920_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/38835517_302519893634029_678596311552884736_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/38963918_313104466115836_4843337325805043712_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39020195_283777545783504_3796176770394875769_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39148845_234860937193365_1469161711842885632_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39164594_2019405618109570_4096967611437285376_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39189226_453532365143829_1945513798748078080_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39276476_264236390883765_8023833782714191645_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39307976_458805254630778_6236317609285910528_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39312845_232747444075019_9147830988116590592_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39347920_254501355401010_5581973260066619392_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39370221_1124682481032929_3180218395568111616_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39401572_259020581390823_6322353789348195416_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39578061_709345552754006_5724813023244189696_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39607212_318440735384966_1806674492664053760_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39715883_1123925397783960_3816335779756507136_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39736323_226603398033748_5984627380369489920_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39907263_534391450354696_275779561584318972_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39971240_732520550425696_4831745883477679321_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/35414722_1833801803589327_7624906533519753216_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/38439873_1998447393538978_4109555335948140544_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/38890851_228573097795446_8408176901792727040_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/38902100_500977646992517_5200482532181786091_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/38934689_230405500977148_3306350624295092224_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39042929_1712485358874523_5871414533527961600_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39085116_271491296797406_8809792829715906560_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39141937_2194187714168457_9015758544741335040_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39152776_2174073049542560_3119188009803579392_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39188952_1991658204457472_6659820533806442539_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39220056_1684158635027997_6405514633276293120_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39248391_551772665238786_5602974859870076928_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39291471_295002004611289_1218284958322262016_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39346896_1109293119218522_6143855384024162841_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39494101_247589702763571_3320168582058344448_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39504747_891909581002198_6464487694492080458_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39517579_259679564878040_6275791483149734872_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39525705_744773149197714_9196741062071156736_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39539728_272723350006696_7544681728455999488_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39613369_272327970157760_5890554801879515136_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39628467_905922449607496_3112529408967458767_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39756329_246460496202839_5177267871973113856_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39778896_229701387698377_6061998332033145169_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39783674_283483342250658_3657497795977281536_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39790066_311199032792281_3108992500472217600_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39917667_291942538273506_5435213914029686784_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39927517_258663138092332_7013437416690201685_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39949981_886219454916789_106161339470184448_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/39991052_886692988207777_3819733345682005666_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/kimkardashian/40169239_567912530292588_4705952802453585920_n.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google_vision/cloudy_vision.py" afterPath="$PROJECT_DIR$/google_vision/cloudy_vision.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/app.py" afterPath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/app.py" afterPath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/app.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -145,33 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/instagram-scraper/instagram_scraper/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="1170" column="36" lean-forward="false" selection-start-line="1170" selection-start-column="36" selection-end-line="1170" selection-end-column="36" />
-              <folding>
-                <element signature="e#43#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/cloudy_vision/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrape_vision.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrape_vision.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -191,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -200,8 +63,8 @@
       <file leaf-file-name="cloudy_vision.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/google_vision/cloudy_vision.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+            <state relative-caret-position="251">
+              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -309,24 +172,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="InstaVisualization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InstaVisualization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InstaVisualization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InstaVisualization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="heidifahreal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -626,7 +471,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27503738" sideWeight="0.40486112" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27503738" sideWeight="0.5951389" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27503738" sideWeight="0.5951389" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -880,9 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3">
           <caret line="1170" column="36" lean-forward="false" selection-start-line="1170" selection-start-column="36" selection-end-line="1170" selection-end-column="36" />
-          <folding>
-            <element signature="e#43#57#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -897,15 +740,15 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/google_vision/cloudy_vision.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="242" column="22" lean-forward="true" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+        <state relative-caret-position="251">
+          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
