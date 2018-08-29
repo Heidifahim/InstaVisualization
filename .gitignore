@@ -7,5 +7,4 @@ output
 *.pyc
 venv
 tags.json
-heidifahreal*
-scrape_vision.py
+
