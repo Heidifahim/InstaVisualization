@@ -864,6 +864,9 @@ class InstagramScraper(object):
         for full_url, base_name in self.templatefilename(item):
             url = full_url.split('?')[0] #try the static url first, stripping parameters
 
+            save_dir = os.path.abspath(os.path.join(__file__,"../..")) + "/output_images/"+item['username']
+
+
             file_path = os.path.join(save_dir, base_name)
             print(save_dir)
             print(base_name)

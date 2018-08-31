@@ -9,3 +9,4 @@ venv
 tags.json
 heidifahreal*
 scrape_vision.py
+output_images*
