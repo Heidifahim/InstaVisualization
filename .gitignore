@@ -7,8 +7,6 @@ output
 *.pyc
 venv
 tags.json
-<<<<<<< HEAD
-heidifahreal*
 scrape_vision.py
 =======
 
