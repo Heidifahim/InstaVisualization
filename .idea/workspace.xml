@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1978d94-51be-4f44-899a-9fb7976a9eb6" name="Default" comment="insta-scraper">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39202929_903273776537090_5058755039783288832_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/39356521_688189561550222_3868461920927350784_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/instagram_scraper/heidifahreal/40206627_338066256766024_5858192257428623540_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/setup.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39202929_903273776537090_5058755039783288832_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/39356521_688189561550222_3868461920927350784_n.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/instagram_scraper/heidifahreal/40206627_338066256766024_5858192257428623540_n.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/instagram-scraper/setup.cfg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instagram-scraper/app.py" afterPath="$PROJECT_DIR$/instagram-scraper/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/app.py" afterPath="$PROJECT_DIR$/instagram-scraper/instagram-scraper/app.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,21 +84,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+                <state relative-caret-position="180">
+                  <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/instagram-scraper/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="165">
-                  <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+                  <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -549,8 +539,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="738" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27503738" sideWeight="0.41527778" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -743,14 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/google_vision/cloudy_vision.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -764,7 +747,15 @@
     <entry file="file://$PROJECT_DIR$/instagram-scraper/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
