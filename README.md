@@ -1,4 +1,4 @@
-InstaVisualization
+<h1>InstaVisualization</h1>
 
 (Slowly) working on a project that integrates cloudy_vision: https://github.com/goberoi/cloudy_vision
 and instagram-scraper https://github.com/rarcega/instagram-scraper
